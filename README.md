@@ -8,7 +8,7 @@ MachForge coordinates CNC manufacturing for metal and plastic components, from e
 
 We support hardware teams with DFM review, supplier coordination, quality control, and production follow-up through vetted manufacturing partners in Shenzhen, China.
 
-* 🌐 Official Website: "MachForge" (https://machforge.xyz)
+* 🌐 Official Website: "MachForge" (https://www.machforge.xyz)
 * ⚙️ Services: CNC Milling, CNC Turning, DFM Support, Surface Treatment, Prototyping, and Low-Volume Production.
 * 📍 Based in: Shenzhen, China — supporting projects worldwide.
 

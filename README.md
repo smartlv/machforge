@@ -18,8 +18,8 @@ We support hardware teams with DFM review, supplier coordination, quality contro
 
 * 🛠️ Get a Quote: "Visit MachForge" (https://machforge.xyz)
 * 💼 LinkedIn: "Grant Lv" (https://www.linkedin.com/in/grantlv-cnc/)
-* 📘 Facebook: "MachForge" (https://www.facebook.com/61592408473991/)
-* 📘 Facebook: "MakerCraft CNC" (https://www.facebook.com/makercraftcnc/)
+* 📘 Facebook: "MachForge" (https://www.facebook.com/machforge/)
+* 📘 Facebook: "MachForge CNC" (https://www.facebook.com/makercraftcnc/)
 
 ---
 
